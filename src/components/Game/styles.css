@@ -1,0 +1,32 @@
+.text-wrapper {
+  width: 250px;
+  margin: 20px auto;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-wrapper p {
+  font-size: 2rem;
+}
+
+.start-button {
+  width: 100%;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: #7571f3;
+  color: #fff;
+  font-size: 1.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.start-button:hover {
+  background-color: #a29fff;
+}
+
+.start-button:active {
+  background-color: #3c37c2;
+}
