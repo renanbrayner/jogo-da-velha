@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jogo-da-velha/static/css/main.7b044988.chunk.css",
+    "main.js": "/jogo-da-velha/static/js/main.f515377d.chunk.js",
+    "main.js.map": "/jogo-da-velha/static/js/main.f515377d.chunk.js.map",
+    "runtime-main.js": "/jogo-da-velha/static/js/runtime-main.b00cbf09.js",
+    "runtime-main.js.map": "/jogo-da-velha/static/js/runtime-main.b00cbf09.js.map",
+    "static/js/2.ed73a67e.chunk.js": "/jogo-da-velha/static/js/2.ed73a67e.chunk.js",
+    "static/js/2.ed73a67e.chunk.js.map": "/jogo-da-velha/static/js/2.ed73a67e.chunk.js.map",
+    "index.html": "/jogo-da-velha/index.html",
+    "precache-manifest.0c0f18e4e909cc76bd052a8f992f0364.js": "/jogo-da-velha/precache-manifest.0c0f18e4e909cc76bd052a8f992f0364.js",
+    "service-worker.js": "/jogo-da-velha/service-worker.js",
+    "static/css/main.7b044988.chunk.css.map": "/jogo-da-velha/static/css/main.7b044988.chunk.css.map",
+    "static/js/2.ed73a67e.chunk.js.LICENSE.txt": "/jogo-da-velha/static/js/2.ed73a67e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b00cbf09.js",
+    "static/js/2.ed73a67e.chunk.js",
+    "static/css/main.7b044988.chunk.css",
+    "static/js/main.f515377d.chunk.js"
+  ]
+}
